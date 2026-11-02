@@ -1,0 +1,90 @@
+[
+  {
+    "id": "score-1",
+    "name": "Aravind Swaminathan",
+    "regNumber": "42110291",
+    "cae2Completed": true,
+    "maxPossibleMarks": 200,
+    "subjects": {
+      "maths": { "cae1": 49.5, "cae2": 49.0, "c1Converted": 19.8, "c2Converted": 19.6, "internalTotal": 39.4 },
+      "eee": { "cae1": 48.0, "cae2": 48.5, "c1Converted": 19.2, "c2Converted": 19.4, "internalTotal": 38.6 },
+      "phy": { "cae1": 49.0, "cae2": 49.5, "c1Converted": 19.6, "c2Converted": 19.8, "internalTotal": 39.4 },
+      "clang": { "cae1": 50.0, "cae2": 49.5, "c1Converted": 20.0, "c2Converted": 19.8, "internalTotal": 39.8 },
+      "eng": { "cae1": 48.5, "cae2": 49.0, "c1Converted": 19.4, "c2Converted": 19.6, "internalTotal": 39.0 }
+    },
+    "totalInternals": 196.2,
+    "c1Total": 98.0,
+    "c2Total": 98.2,
+    "percentage": 98.1,
+    "grade": "O (Outstanding)",
+    "tier": "Topper Promax Champion 👑",
+    "timestamp": "10:15 AM",
+    "createdAt": 1793540000000
+  },
+  {
+    "id": "score-2",
+    "name": "Kavitha Rangarajan",
+    "regNumber": "42110415",
+    "cae2Completed": true,
+    "maxPossibleMarks": 200,
+    "subjects": {
+      "maths": { "cae1": 47.0, "cae2": 48.0, "c1Converted": 18.8, "c2Converted": 19.2, "internalTotal": 38.0 },
+      "eee": { "cae1": 46.5, "cae2": 47.0, "c1Converted": 18.6, "c2Converted": 18.8, "internalTotal": 37.4 },
+      "phy": { "cae1": 48.0, "cae2": 47.5, "c1Converted": 19.2, "c2Converted": 19.0, "internalTotal": 38.2 },
+      "clang": { "cae1": 47.5, "cae2": 48.0, "c1Converted": 19.0, "c2Converted": 19.2, "internalTotal": 38.2 },
+      "eng": { "cae1": 49.0, "cae2": 49.5, "c1Converted": 19.6, "c2Converted": 19.8, "internalTotal": 39.4 }
+    },
+    "totalInternals": 191.2,
+    "c1Total": 95.2,
+    "c2Total": 96.0,
+    "percentage": 95.6,
+    "grade": "O (Outstanding)",
+    "tier": "Topper Promax Champion 👑",
+    "timestamp": "11:04 AM",
+    "createdAt": 1793543600000
+  },
+  {
+    "id": "score-3",
+    "name": "Jesuroni S.",
+    "regNumber": "42110108",
+    "cae2Completed": true,
+    "maxPossibleMarks": 200,
+    "subjects": {
+      "maths": { "cae1": 45.5, "cae2": 46.0, "c1Converted": 18.2, "c2Converted": 18.4, "internalTotal": 36.6 },
+      "eee": { "cae1": 44.0, "cae2": 45.0, "c1Converted": 17.6, "c2Converted": 18.0, "internalTotal": 35.6 },
+      "phy": { "cae1": 46.0, "cae2": 46.5, "c1Converted": 18.4, "c2Converted": 18.6, "internalTotal": 37.0 },
+      "clang": { "cae1": 48.0, "cae2": 47.5, "c1Converted": 19.2, "c2Converted": 19.0, "internalTotal": 38.2 },
+      "eng": { "cae1": 46.0, "cae2": 47.0, "c1Converted": 18.4, "c2Converted": 18.8, "internalTotal": 37.2 }
+    },
+    "totalInternals": 184.6,
+    "c1Total": 91.8,
+    "c2Total": 92.8,
+    "percentage": 92.3,
+    "grade": "O (Outstanding)",
+    "tier": "Topper Promax Champion 👑",
+    "timestamp": "11:42 AM",
+    "createdAt": 1793545000000
+  },
+  {
+    "id": "score-5",
+    "name": "Priya Dharshini (CAE 2 Pending)",
+    "regNumber": "42110544",
+    "cae2Completed": false,
+    "maxPossibleMarks": 100,
+    "subjects": {
+      "maths": { "cae1": 44.0, "cae2": 0.0, "c1Converted": 17.6, "c2Converted": 0.0, "internalTotal": 17.6 },
+      "eee": { "cae1": 41.0, "cae2": 0.0, "c1Converted": 16.4, "c2Converted": 0.0, "internalTotal": 16.4 },
+      "phy": { "cae1": 45.0, "cae2": 0.0, "c1Converted": 18.0, "c2Converted": 0.0, "internalTotal": 18.0 },
+      "clang": { "cae1": 47.0, "cae2": 0.0, "c1Converted": 18.8, "c2Converted": 0.0, "internalTotal": 18.8 },
+      "eng": { "cae1": 43.0, "cae2": 0.0, "c1Converted": 17.2, "c2Converted": 0.0, "internalTotal": 17.2 }
+    },
+    "totalInternals": 88.0,
+    "c1Total": 88.0,
+    "c2Total": 0.0,
+    "percentage": 88.0,
+    "grade": "A+ (Excellent)",
+    "tier": "Topper Promax Tier 🔥",
+    "timestamp": "01:10 PM",
+    "createdAt": 1793551000000
+  }
+]

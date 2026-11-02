@@ -1,0 +1,8 @@
+{
+  "name": "Topper Promax - Real-Time Scoreboard",
+  "description": "Real-time student marks leaderboard and evaluator with live synchronization across all users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
